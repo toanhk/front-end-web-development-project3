@@ -1,6 +1,6 @@
 /* Global Variables */
 const baseURL = "https://api.openweathermap.org/data/2.5/weather";
-const apiKey = "a0db832b01aa92ca7cc5afa5b8b86cf9&units=imperial";
+const apiKey = "<api-key>&units=imperial";
 
 const urlServer = "http://localhost:3000";
 
